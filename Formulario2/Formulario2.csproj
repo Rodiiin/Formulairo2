@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CarpetaPrueba\" />
-    <Folder Include="Clases\" />
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
